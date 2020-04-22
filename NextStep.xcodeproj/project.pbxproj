@@ -214,6 +214,8 @@
 		AAF73665242F2EA00051E34A /* NSBegegnungenModuleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSBegegnungenModuleView.swift; sourceTree = "<group>"; };
 		AAF73667242F3D030051E34A /* UIStackView+NS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIStackView+NS.swift"; sourceTree = "<group>"; };
 		AAF7366A2430838A0051E34A /* NSAnimatedGraphLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSAnimatedGraphLayer.swift; sourceTree = "<group>"; };
+		BBD1A36724507E40008ADFEF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BBD1A36824507E55008ADFEF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DC175E3F2430C4C700BD2AD6 /* NSOnboardingContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSOnboardingContentViewController.swift; sourceTree = "<group>"; };
 		DC175E412430C4F900BD2AD6 /* NSOnboardingPermissionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSOnboardingPermissionsViewController.swift; sourceTree = "<group>"; };
 		DC175E432430D4B400BD2AD6 /* NextStep.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NextStep.entitlements; sourceTree = "<group>"; };
@@ -814,6 +816,7 @@
 				de,
 				it,
 				Base,
+				ja,
 			);
 			mainGroup = 8E81CC8C241FCC7D006F2437;
 			packageReferences = (
@@ -1055,6 +1058,7 @@
 				DC9A81A5242CE5E000AD1548 /* en */,
 				DC9A81A7242CE5E000AD1548 /* it */,
 				DC9A81A9242CE5E000AD1548 /* fr */,
+				BBD1A36724507E40008ADFEF /* ja */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -1066,6 +1070,7 @@
 				DC9A81A6242CE5E000AD1548 /* en */,
 				DC9A81A8242CE5E000AD1548 /* it */,
 				DC9A81AA242CE5E000AD1548 /* fr */,
+				BBD1A36824507E55008ADFEF /* ja */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

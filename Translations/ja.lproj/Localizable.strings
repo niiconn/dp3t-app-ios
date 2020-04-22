@@ -1,0 +1,403 @@
+
+/*Name der App*/
+"app_name" = "Next Step";
+
+/*App Name unter Icon (iOS)*/
+"CFBundleDisplayName" = "Next Step";
+
+/*Title of the menu item home*/
+"menu_item_home" = "ホーム";
+
+/*Title of the menu item info*/
+"menu_item_info" = "情報";
+
+/*Title of the menu item tracking*/
+"menu_item_tracking" = "トレーシング";
+
+/*Loading View: Erneut laden*/
+"loading_view_reload" = "リロード";
+
+/*Loading View: Titel*/
+"loading_view_error_title" = "エラー";
+
+/*Text on grant permission button*/
+"grant_permission_button" = "許す";
+
+/*Text on grant permission button if permission is granted*/
+"granted_permission_button" = "許可";
+
+/*Sprachen-Key*/
+"language_key" = "ja";
+
+/*Force Update Alert Titel*/
+"force_update_title" = "アップデート";
+"homescreen_handshakes_module_count_info_label" = "出会いは、あなたのデバイスに匿名で保存されます。";
+"homescreen_handshakes_module_count_label_format" = "{count} 四十八時間以内に";
+"homescreen_handshakes_module_info_label" = "ここでは、COVID-19との出会いの情報を見ることができます。";
+
+/*Informieren Titel*/
+"inform_title" = "感染の連鎖を中断する";
+
+/*Inform Subtext*/
+"inform_subtext" = "COVID-19の感染の連鎖を断ち切るお手伝いをしたいと思います。";
+
+/*Inform: Symptome Button*/
+"inform_button_symptom_title" = "症状";
+
+/*Inform: Symptome Button*/
+"inform_button_symptom_text" = "現在、症状に悩まされています。";
+
+/*Inform: Button Titel*/
+"inform_button_positive_title" = "陽性検査の結果";
+
+/*Inform Button Positiv*/
+"inform_button_positive_text" = "最近、陽性反応が出ました。";
+"what_to_do_button" = "何をするの？";
+"homescreen_handshakes_module_gemeldet_label" = "先日お会いした方からCOVID-19の情報をいただきました。";
+
+/*Inform-Flow*/
+"inform_continue_button" = "続ける";
+
+/*Informieren: Positive Testergebnis*/
+"inform_positive_long_text" = "最近COVID-19の陽性反応が出ました。\n\nそのため、出会った人に匿名でアプリを通知してもらうことで、連鎖感染の可能性を防いでいきたいと思います。";
+
+/*Ich leide an einem oder mehreren der folgenden Symptome:*/
+"inform_symptom_starttext" = "I次のような症状の一つ以上に悩まされています。";
+
+/*Informieren: Senden Button*/
+"inform_send_button_title" = "送信";
+
+/*Informieren: Senden Text Symptome*/
+"inform_symptoms_send_text" = "私は上記のような症状に悩まされていますが、それはCOVID-19を示している可能性があります。\n\nそのため、出会った人に匿名でアプリを通知してもらうことで、連鎖感染の可能性を防いでいきたいと思います。";
+
+/*Informieren: Danke*/
+"inform_send_thankyou" = "ありがとうございます！";
+"inform_send_thankyou_text" = "あなたの情報が送信されました。\nこのようにして、あなたはコロナウイルスの拡散を止めるために重要な貢献をしています。";
+
+/*Symptome*/
+"inform_symptom_coughdry" = "咳（ほとんどが乾燥している）";
+
+/*Symptom*/
+"inform_symptom_hals" = "喉の痛み";
+
+/*Symptom*/
+"inform_symptom_kurzatmigkeit" = "息切れ";
+
+/*Symptom*/
+"inform_symptom_fieber" = "発熱、熱っぽい感じ";
+
+/*Symptom*/
+"inform_symptom_muskel" = "筋肉痛";
+
+/*Symptome*/
+"inform_no_symptom" = "記載されている症状のいずれも";
+
+/*Text in toast when downloading pdf*/
+"downloading_pdf" = "PDFをダウンロードする";
+
+/*Inform: Empfehlung*/
+"inform_empfehlung" = "お勧め";
+
+/*Inform: Empfehlung Text*/
+"inform_empfehlung_subtext" = "医学的に明らかにしたものや、臨床検査の指示はありません。\n\n衛生面や行動面でのルールを守る。";
+
+/*Inform: Button Titel*/
+"inform_fertig_button_title" = "準備完了";
+
+/*CSV wird heruntergeladen*/
+"downloading_csv" = "CSVをダウンロードする";
+"handshakes_heading_homescreen" = " ";
+"handshakes_title_homescreen" = "会議";
+"inform_heading_homescreen" = " ";
+"inform_title_homescreen" = "コロナ病の疑い";
+"inform_text_homescreen" = "症状が出た場合や陽性反応が出た場合は、知り合った人に知らせましょう。";
+"inform_button_title" = "病気の報告";
+"inform_button_title_again" = "再度お知らせします。";
+"inform_last_meldung_text" = "最後に成功したメッセージ{date}";
+
+/*Erstes Tab*/
+"tab_theapp_title" = "アプリ";
+
+/*Tab Titel*/
+"tab_aktuell_title" = "最新情報";
+
+/*Tab Titel*/
+"tab_verhalten_title" = "行動";
+
+/*Tab Titel*/
+"tab_prinzip_title" = "原理";
+
+/*Abbrechen*/
+"cancel" = "キャンセル";
+
+/*Schliessen*/
+"close" = "閉じる";
+
+/*Begegnungen*/
+"begegnungen_counter_title" = "同期化";
+"inform_meldung_time" = "メッセージの {date}";
+"homescreen_inform_module_gemeldet_label" = "最近お会いしたすべてのユーザーにお知らせしています。";
+
+/*Titel für Push-Nachrichten, wenn erkannt wird, dass ein Nutzer exposed war*/
+"push_exposed_title" = "利用可能な新しい情報";
+
+/*Titel für Push-Nachrichten, wenn erkannt wird, dass ein Nutzer exposed war*/
+"push_exposed_text" = "詳しくはアプリを開いてみてください。";
+"onboarding_top_label_how" = "どうやって動くのか。";
+"onboarding_title_1" = "一足先に";
+"onboarding_desc_1" = "MiNext Stepアプリで、COVID-19の蔓延を食い止めることができます。 このアプリは、感染者が最初の症状が現れる前に隔離するのに役立ちます。";
+"onboarding_title_2" = "自動\nと無名";
+"onboarding_desc_2" = "アプリは出会いを検出し、匿名で保存し、デバイス上で暗号化して保存します。";
+"onboarding_title_3" = "インフォーム";
+"onboarding_desc_3" = "検査で陽性反応が出た場合は、匿名で出会いを伝えることができるので、適切な対策をしてもらうことができます。";
+"onboarding_title_4" = "認可";
+"onboarding_desc_4" = "アプリを正常に動作させるためには、これらの許可に同意してください。";
+"onboarding_title_5" = "Next Step";
+"onboarding_desc_5" = "一緒に孤立から次の一歩を踏み出すことができます。";
+"onboarding_android_location_permission_info" = "トレースはBluetoothの低エネルギー技術を介して動作するため、アプリはBluetoothにアクセスする必要があります。しかし、Androidではアプリに位置情報の許可がある場合にのみBluetoothにアクセスできるようになっています。\n\nしかし、アプリはあなたの位置情報にアクセスすることはありません";
+"onboarding_android_battery_saving_info" = "Da我々 は継続的にバックグラウンドでトレースを行うことができますと、私たちのアプリのバッテリーの最適化をオフにする必要があります。";
+"button_permission_location_android" = "ローカライズを許可する";
+"button_permission_location_granted_android" = "ローカライゼーションが可能";
+"button_ok" = "宜しい";
+"activate_bluetooth_button" = "Bluetoothを有効にする";
+"activate_push_button" = "プッシュを有効にする";
+"bluetooth_activated_label" = "ブルートゥース対応";
+"push_activated_label" = "プッシュ式";
+"onboarding_continue_button" = "続ける";
+"onboarding_continue_without_button" = "許可を得ずに続行する";
+"onboarding_continue_without_popup_text" = "本当に続ける気があるのか？アプリは必要なパーミッションを持っていないと完全に動作しません。";
+"onboarding_continue_without_popup_abort" = "キャンセル";
+"onboarding_continue_without_popup_continue" = "続ける";
+"onboarding_finish_button" = "準備完了";
+"button_battery_optimization" = "バッテリーの最適化を無効にする";
+"button_battery_optimization_deactivated" = "バッテリーの最適化を無効化";
+
+/*Gleicher Inhalt wie homescreen_handshakes_module_info_label, aber ohne Symptome*/
+"homescreen_handshakes_module_info_label_nosymptoms" = "これは、出会った人がCOVID-19について知らせてくれたときに表示されます。";
+
+/*Siehe inform_text_homescreen*/
+"inform_text_homescreen_nosymptoms" = "COVID-19で陽性反応が出た場合は、匿名で知り合った人に知らせてください。";
+
+/*Unerwarteter Fehler*/
+"unexpected_error_title" = "予期せぬエラーが発生しました ({ERROR}).";
+
+/*Bluetooth Fehlermeldung*/
+"bluetooth_turned_off" = "Bluetoothがオフになっているため、アプリが動作しません。";
+
+/*Bluetooth Permission Fehler*/
+"bluetooth_permission_turned_off" = "Bluetooth認証がされていないため、アプリが動作しません。";
+
+/*Permission Text für Bluetooth*/
+"NSBluetoothPeripheralUsageDescription" = "出会いはBluetooth経由でバックグラウンドで検出され、エネルギーを節約します。";
+
+/*Bluetooth Permission Text für iOS*/
+"NSBluetoothAlwaysUsageDescription" = "出会いはBluetooth経由でバックグラウンドで検出され、エネルギーを節約します。";
+
+/*Text der bei Android in der permanenten Notification immer angezeigt wird*/
+"foreground_service_notification_text" = "出会いは、あなたのデバイスに匿名で保存されます。";
+
+/*Text, der angezeigt wird als Info für Leute die jemand positiv getesteten begegnet sind*/
+"exposed_info_support_text" = "ご質問やお勧めが必要な場合は、ホットラインにお電話ください。";
+
+/*Button mit Support Telefonnummer*/
+"exposed_info_tel_button_title" = "+41 00 000 00 00";
+
+/*Inform: Titel der Code abschicken Seite*/
+"inform_code_title" = "コードを入力してください";
+
+/*Inform: Code eingeben Subtext*/
+"inform_code_text" = "検査結果と一緒に受け取ったコードを入力してください。";
+
+/*Inform: Code eingeben kein Code Button Text*/
+"inform_code_no_code" = "コードがないのか？";
+
+/*hint for filter tags in log-search*/
+"logs_filter_tags" = "タグフィルタ（カンマ区切り）";
+
+/*Titel des Bluetooth Control*/
+"bluetooth_setting_title" = "トレーシング";
+
+/*Text beim Bluetooth Control*/
+"bluetooth_setting_text" = "出会いを認識する";
+
+/*Bluetooth Control: Tracking aktiv*/
+"bluetooth_setting_tracking_active" = "アクティブなトレース";
+
+/*Bluetooth Control: Tracking Aktiv Subtext*/
+"bluetooth_setting_tracking_active_subtext" = "出会いは、あなたのデバイスに匿名で保存されます。";
+
+/*Bluetooth Control: Tracking deaktiviert*/
+"bluetooth_setting_tracking_inactive" = "非アクティブ化されたトレース";
+
+/*Bluetooth Control: Tracking deaktiviert Subtext*/
+"bluetooth_setting_tracking_inactive_subtext" = "Bluetooth を許可して、出会いを匿名で保存できるようにします。";
+
+/*Bluetooth Setting: Titel unten*/
+"bluetooth_setting_tracking_explanation_title" = "トレースはどのように機能するのですか？";
+
+/*Bluetooth Setting Text unten*/
+"bluetooth_setting_data_explanation_title" = "私のデータは安全ですか？";
+
+/*Bluetooth Setting: Text unten*/
+/*Fuzzy*/
+"bluetooth_setting_tracking_explanation_text1" = "このアプリは、Bluetooth、より正確にはBluetooth Low Energyを使用して、他のユーザーとの出会いを検出します。出会いは、一定期間2人のユーザーが近くにいるとアプリに登録され、21日後に削除されます。";
+
+/*Bluetooth Setting: Text unten*/
+/*Fuzzy*/
+"bluetooth_setting_tracking_explanation_text2" = "他のユーザーとの出会いは、スマートフォンのローカルにのみ保存されます。";
+
+/*Bluetooth Setting: Text unten*/
+/*Fuzzy*/
+"bluetooth_setting_data_explanation_text1" = "各アプリには動的なIDがあり、「HMAC(SHA256)」を使って15分ごとにランダムに生成されます。つまり、どのユーザーも匿名のままなんですね。";
+
+/*Bluetooth Setting: Text unten*/
+/*Fuzzy*/
+"bluetooth_setting_data_explanation_text2" = "重要な物件です。\n- 位置追跡\n- アナリティクスや広告サービスはありません\n- iOSおよびAndroid用のSDKを含むオープンアーキテクチャ/プロトコルおよび仕様\n- 相互運用性（自社アプリ、自社バックエンド）\n- オープンソース";
+"reports_title_homescreen" = "ニュース";
+
+/*Keine Meldungen Titel*/
+"meldungen_no_meldungen_title" = "メッセージはありません";
+
+/*Keine Meldungen Text*/
+"meldungen_no_meldungen_text" = "感染が疑われる場合はお知らせします。";
+
+/*Push deaktiviert Titel*/
+"push_deactivated_title" = "プッシュ非活性化";
+
+/*Push deaktiviert Text*/
+"push_deactivated_text" = "メッセージを受信したときにプッシュメッセージを直接通知できるようにします。";
+
+/*Hinweis Titel*/
+"hinweis_title" = "重要な注意事項";
+
+/*Hinweis Text*/
+/*Fuzzy*/
+"hinweis_text" = "会った人がCOVID-19で陽性反応を示した。";
+"button_report_illness" = "病気の報告";
+"meldungen_meldung_title" = "重要な注意事項";
+
+/*Fuzzy*/
+"meldungen_meldung_text" = "会った人がCOVID-19で陽性反応を示した。行動のススメはこちらからお読みください。";
+"meldungen_meldung_more_button" = "詳細はこちら";
+"tracing_active_title" = "アクティブなトレース";
+"tracing_active_text" = "出会いは、あなたのデバイスに匿名で保存されます。";
+"tracing_error_title" = "トレースはアクティブではありません。";
+"tracing_error_text" = "トレースとBluetoothを有効にして、会議を匿名で記録できるようにします。";
+
+/*Meldungen: zusätzliche Info Titel*/
+"meldungen_additional_info_title" = "それはどういう意味なのか？";
+
+/*Meldungen: Info Text 1*/
+/*Fuzzy*/
+"meldungen_additional_info_text1" = "ウイルスの拡散を止めるためには、感染の連鎖を断ち切らなければなりません。これは、感染した人を隔離することで行われます。しかし、新しいコロナウイルスには問題があります。体調が悪くなる前にすでに伝染している可能性があります。つまり、症状のある人は隔離するものの、ウイルスは拡散する可能性があるということですね。一歩遅れているからだ。";
+
+/*Meldungen: zusätzlicher Info Text*/
+/*Fuzzy*/
+"meldungen_additional_info_text2" = "そのため、連絡先には連絡をしておく必要があります。このようにして、彼らは病気になる前でも、早い段階で自分自身を孤立させることができます。もちろん、すべての接触者がそのときにウイルスを持っているわけではありません。しかし、それを持っている人は、それを引き継ぐことはありません。そうすればウイルスの一歩先を行くことになる。";
+
+/*Hinweis beim Eingabefeld für den Authentifizierungs-Code*/
+"auth_code_input_hint" = "000-000";
+
+/*Meldungen: Info Titel*/
+"meldungen_additional_info_title2" = "どのように行動すればいいのでしょうか？";
+
+/*Meldungen: Text*/
+/*Fuzzy*/
+"meldungen_additional_info_text3" = "BAGの専門家が電話でアドバイスします。\n\nCorona-Infoline\n+41 58 463 00 00";
+
+/*Meldungen: Jetzt anrufen*/
+"meldungen_call_button_title" = "今すぐ電話する";
+
+/*Bezeichnung für Beratungs-Hotline*/
+"meldungen_hotline_label" = "Corona-Infoline";
+
+/*Label für Anrufen-Button*/
+"button_call_now" = "今すぐ電話する";
+
+/*Telefon-Nummer für die Hotline*/
+"tel_hotline" = "+41 58 463 00 00";
+
+/*Meldungen: Text ohne Hotline Info*/
+"meldungen_additional_info_text3_reduced" = "BAGの専門家が電話でアドバイスします。";
+
+/*Fuzzy*/
+"meldungen_infected_title" = "報告された感染症";
+
+/*Fuzzy*/
+"meldungen_infected_text" = "ありがとうございます！出会ったユーザーは匿名で知らされ、孤立することができます。";
+"foreground_service_notification_errors" = "現在、アプリが正常に動作しません。";
+"foreground_service_notification_error_network_sync" = "データの読み込み中にエラーが発生しました";
+"foreground_service_notification_error_location_permission" = "位置情報の認証がありませんBluetoothにアクセスするために必要";
+"foreground_service_notification_error_bluetooth_disabled" = "Bluetoothが無効化されている";
+"foreground_service_notification_error_battery_optimization" = "バッテリーの最適化が有効になりますバックグラウンドでの信頼性の高いスキャンができなくなります";
+
+/*Beruhigender Text für Detail-Seite, falls Meldung eingegangen ist*/
+"meldungen_hinweis_info_text1" = "これは感染したということではありません。しかし、自分に何ができるのかを見極めることが大切です。";
+
+/*Info-Text "Was bedeuteted das" für Person, die selbst bemeldet hat*/
+/*Fuzzy*/
+"meldungen_hinweis_info_text1_infected" = "これは誰でも感染しているわけではありません。しかし、会う人全員に適切な対策を知らせることができることが重要です。";
+
+/*Titel der Nachricht, die auf Beta-Status Hinweist*/
+"preview_warning_title" = "プレビュー版";
+
+/*Text der Nachricht, die auf Beta-Status Hinweist*/
+"preview_warning_text" = "このアプリは、DP-3Tの実装を表示するためのプレビューとして機能します。生産的にはCOVID-19トレーサーではありません。";
+
+/*Label auf dem Button, der zum Debug-Screen führt*/
+/*Fuzzy*/
+"debug_settings_title" = "デバッグ設定";
+
+/*Titel für die Debug-Einstellungen zur Status-Überschreibung*/
+"debug_state_setting_title" = "アプリの状態を上書きする";
+
+/*Erklärungstext für die Debug-Einstellungen zur Status-Überschreibung*/
+"debug_state_setting_text" = "この設定は、アプリの視覚的な状態を上書きします。トレース機能に影響はありません。";
+
+/*Einstellungs-Option zum überschreiben des App-Zustands: Keine*/
+"debug_state_setting_option_none" = "上書きなし";
+
+/*Einstellungs-Option zum überschreiben des App-Zustands: Gesund*/
+"debug_state_setting_option_ok" = "健康的な";
+
+/*Einstellungs-Option zum überschreiben des App-Zustands: Einem positiven Kontakt ausgesetzt*/
+"debug_state_setting_option_exposed" = "ポジティブテスト済みのコンタクト";
+
+/*Einstellungs-Option zum überschreiben des App-Zustands: Selbst positiv getestet*/
+"debug_state_setting_option_infected" = "肯定的な自己報告";
+
+/*Titel für die Debug-Info zum Tracing-Status*/
+"debug_sdk_state_title" = "SDKステータス";
+
+/*Erklärungstext für die Debug-Info zum Tracing-Status*/
+"debug_sdk_state_text" = "DP-3T SDKの現状です。";
+
+/*Bezeichnung für den aktiven SDK Status*/
+"debug_sdk_state_active" = "実行される";
+
+/*Bezeichnung für den inaktiven SDK Status*/
+"debug_sdk_state_inactive" = "は実行されません";
+
+/*Bezeichnung für den letzen sync-Zeitpunkt*/
+"debug_sdk_state_last_synced" = "最後の同期：";
+
+/*Bezeichnung für den Fall, bei dem der User selber als positiv getestet gemeldet wurde*/
+"debug_sdk_state_self_exposed" = "自己申告：";
+
+/*Bezeichnung für den Fall, bei dem ein Kontakt als positiv getestet gemeldet wurde*/
+"debug_sdk_state_contact_exposed" = "連絡がありました：";
+
+/*Bezeichnung für die Anzahl bluetooth-handshakes, die ausgeführt wurden*/
+"debug_sdk_state_number_handshakes" = "握手会の回数：";
+
+/*Debug-Status-Bezeichnung für boleschen Wert 'true'*/
+"debug_sdk_state_boolean_true" = "嗟乎";
+
+/*Debug-Status-Bezeichnung für boleschen Wert 'false'*/
+"debug_sdk_state_boolean_false" = "否";
+
+/*Button-Text für das Zurücksetzen des lokalen SDK Zustandes*/
+"debug_sdk_button_reset" = "リセットSDK";
+
+/*Infotext, wenn lokal das SDK zurückgesetzt wurde*/
+"debug_sdk_reset_text" = "DP-3T SDKのローカルバージョンがリセットされました。";
